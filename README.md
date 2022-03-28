@@ -1,7 +1,9 @@
 # Things i Learn From This Project  
 Learn how to use basic markdown and its syntax from [markdowntutorial](https://www.markdowntutorial.com/lesson/7/) which is easy with there method of teaching
 
-# Visit Live SIte Here [live site](https://markdown-make.netlify.app/)
+# Visit Live SIte Here [live site](https://markdown-make.netlify.app/)  
+
+cloned from [John Smilga tutorial](https://react-projects-16-markdown-preview.netlify.app/)
 
 # Getting Started with Create React App
 
